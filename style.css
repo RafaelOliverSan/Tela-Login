@@ -99,6 +99,7 @@ h1{
 
 .submit-btn:hover{
   background-color: rgb(181, 42, 199);
+  transition: 1s;
 
 }
 
